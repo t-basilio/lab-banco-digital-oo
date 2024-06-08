@@ -60,7 +60,7 @@ public class ContaCorrente extends Conta {
 			this.limite = VALOR_LIMITE;
 
 		} else
-			this.limite = valor;
+			this.limite += valor;
 	}
 
 }
