@@ -1,5 +1,10 @@
 # Criando um Banco Digital com Java e Orientação a Objetos
 
+# Melhorias entregues nesse desafio
+- Atributo que representa o limite da Conta Corrente e suas validações nas operações
+- Funcionalidade de exibição de clientes de um banco
+- Adicionado a biblioteca Lombok no projeto para eliminar códigos *boilerplate*.
+
 ## 02/08/2021 - [Mentoria #1: Tire Suas Dúvidas Sobre Orientação a Objetos](https://www.youtube.com/watch?v=YS6ouOhkyNI)
 
 Desafio: Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário:

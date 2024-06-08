@@ -1,3 +1,4 @@
+package entities.interfaces;
 
 public interface IConta {
 	
